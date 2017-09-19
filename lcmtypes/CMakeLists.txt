@@ -43,6 +43,10 @@ lcm_wrap_types(
   viewer_link_data_t.lcm
   viewer_load_robot_t.lcm
   viewer2_comms_t.lcm
+  hardware/iiwa_command.lcm
+  hardware/iiwa_status.lcm
+  hardware/schunk_wsg_command.lcm
+  hardware/schunk_wsg_status.lcm
   )
 
 
