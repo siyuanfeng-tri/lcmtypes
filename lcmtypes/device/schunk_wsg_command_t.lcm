@@ -1,6 +1,6 @@
-package robotlocomotion::hardware;
+package device;
 
-struct schunk_wsg_command
+struct schunk_wsg_command_t
 {
   int64_t utime;  //< The timestamp in microseconds.
 

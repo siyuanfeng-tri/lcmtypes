@@ -1,7 +1,7 @@
-package robotlocomotion::hardware;
+package device;
 
 // Commands a single set of joint states for the arm.
-struct iiwa_command {
+struct iiwa_command_t {
   // The timestamp in microseconds.
   int64_t utime;
 
